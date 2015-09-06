@@ -1,0 +1,6 @@
+# Project
+
+# Development
+/node_modules/
+/bower_components/
+*.log
