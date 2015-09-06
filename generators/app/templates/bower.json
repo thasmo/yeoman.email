@@ -1,0 +1,16 @@
+{
+  "name": "<%= project.identifier %>",
+  "description": "<%= project.description %>",
+  "license": "<%= project.license %>",
+  "private": true,
+  "authors": [
+    {
+      "name": "<%= project.author.name %>",
+      "email": "<%= project.author.email %>",
+      "homepage": "<%= project.author.website %>"
+    }
+  ],
+  "dependencies": {
+    "bourbon": "~4.2"
+  }
+}

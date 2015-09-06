@@ -1,0 +1,29 @@
+{
+  "name": "generator-email-builder",
+  "description": "Yeoman generator that scaffolds out a project for crafting email templates.",
+  "license": "MIT",
+  "keywords": ["yeoman-generator", "email", "boilerplate", "build"],
+  "author": {
+    "name": "Thomas Deinhamer",
+    "email": "thasmo@gmail.com",
+    "url": "http://thasmo.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/thasmo/yeoman.email-builder"
+  },
+  "files": [
+    "generators"
+  ],
+  "main": "generators/app/index.js",
+  "dependencies": {
+    "yeoman-generator": "~0.20",
+    "yosay": "~1.0",
+    "validate-npm-package-name": "~2.2",
+    "fullname": "~1.1",
+    "git-user-email": "~0.2",
+    "dot-object": "~1.1",
+    "spdx-license-list": "~2.0",
+    "string": "~3.3"
+  }
+}
