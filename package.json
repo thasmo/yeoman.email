@@ -3,7 +3,7 @@
   "description": "Yeoman generator that scaffolds out a project for crafting email templates.",
   "version": "0.1.1",
   "license": "MIT",
-  "keywords": ["yeoman-generator", "email", "boilerplate", "build"],
+  "keywords": ["yeoman-generator", "yeoman", "email", "boilerplate", "template"],
   "author": {
     "name": "Thomas Deinhamer",
     "email": "thasmo@gmail.com",
