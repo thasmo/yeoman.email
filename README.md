@@ -19,8 +19,8 @@
 
 ## Setup
 * Be sure to have [Node.js][node], [Yeoman][yeoman], [Bower][bower] and [Gulp][gulp] installed.
-* Run `npm install -g generator-email-builder` to install the generator globally.
-* Run `yo email-builder` inside an empty directory and follow the instructions.
+* Run `npm install -g @thasmo/generator-email` to install the generator globally.
+* Run `yo @thasmo/email` inside an empty directory and follow the instructions.
 
 ### Options
 There are no Yeoman options yet.
