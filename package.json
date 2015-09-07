@@ -1,5 +1,5 @@
 {
-  "name": "generator-email-builder",
+  "name": "@thasmo/generator-email",
   "description": "Yeoman generator that scaffolds out a project for crafting email templates.",
   "license": "MIT",
   "keywords": ["yeoman-generator", "email", "boilerplate", "build"],
