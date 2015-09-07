@@ -12,6 +12,7 @@
     "type": "git",
     "url": "http://github.com/thasmo/yeoman.email"
   },
+  "bugs": "https://github.com/thasmo/yeoman.email/issues",
   "files": [
     "generators"
   ],
