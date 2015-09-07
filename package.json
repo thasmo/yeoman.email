@@ -1,6 +1,7 @@
 {
-  "name": "generator-email-builder",
+  "name": "@thasmo/generator-email",
   "description": "Yeoman generator that scaffolds out a project for crafting email templates.",
+  "version": "0.1.1",
   "license": "MIT",
   "keywords": ["yeoman-generator", "email", "boilerplate", "build"],
   "author": {
@@ -10,8 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/thasmo/yeoman.email-builder"
+    "url": "http://github.com/thasmo/yeoman.email"
   },
+  "bugs": "https://github.com/thasmo/yeoman.email/issues",
   "files": [
     "generators"
   ],
