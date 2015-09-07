@@ -1,4 +1,4 @@
-# Email Builder Generator
+# Email Generator
 [Yeoman][yeoman] generator that scaffolds out a project for crafting email templates.
 
 ## Features
