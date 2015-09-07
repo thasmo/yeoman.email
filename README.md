@@ -26,8 +26,8 @@
 There are no Yeoman options yet.
 
 ## Usage
-_Email Builder Generator_  scaffolds a project which uses Gulp to process
-source files and it also starts up [Browser-Sync][browsersync] to serve the  templates.
+This [Yeoman][yeoman] generator scaffolds a project which uses [Gulp][gulp] to process
+source files and it also starts up [Browser-Sync][browsersync] to serve the templates.
 
 ### Configuration
 Use `task/config.local.js` to customize and overwrite task options defined in `task/config.js` for your local environment.
