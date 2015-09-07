@@ -7,4 +7,4 @@
 ### Added
 - Initial files.
 
-[next]: https://github.com/thasmo/yeoman.email-builder/compare/v0.1.0...HEAD
+[next]: https://github.com/thasmo/yeoman.email/compare/v0.1.0...HEAD
