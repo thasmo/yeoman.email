@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/thasmo/yeoman.email-builder"
+    "url": "http://github.com/thasmo/yeoman.email"
   },
   "files": [
     "generators"
